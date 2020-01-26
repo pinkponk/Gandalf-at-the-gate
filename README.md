@@ -1,2 +1,2 @@
-# halloween_gandalf
-raspberry pi project for animating gandalf as a door guard. He asks you a riddle when you approach.
+# Gandalf at the door
+Hobby project for Halloween. Code for Gandalf robot which greets guests add the door. The bearded and hatted raspberry pi will sense someone moving to the front door. Gandalf will spring to life moving his beard with a servo and his eyes with two led matrices. He Then asks you a riddle and waits for you to answer, if you answered correctly he will tell you to enter otherwise he will tell you that "YOU SHALL NOT PASS"
